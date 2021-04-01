@@ -1,0 +1,11 @@
+Field Name,Field Description,Example 1,Example 2,Additional Data Details
+Client ID,Allegheny County Health Department Client Identification Number,8368,2.02E+11,Id numbers are either 4 or 12 digits 
+Name,Name of the store,Avalon Fuel,Al's Market,"In cases where the store is part of a chain, the name can look identical."
+Legal Name,The official name of the corporation that completed the permit application,Toms King (Penn) LLC,5 Development Corp,"The Legal name can, but does not have to match the field ""Name"""
+Start Date,The initial date the permit was issued,3/24/2016,7/2/2004,
+Stret #,Building number ,415,6192,
+Street Name,Street the Food Venue is located on,Ohio River Blvd,Walmart Dr,
+Zip,ZIP code,15201,15227,
+Lat,Geographic measurement. Measures North & South,40.45195,40.5284,used as Y axis in mapping
+Lon,Geographic measurement. Measures East & West,-80.004,-79.89313,Used as X axis in mapping
+Category,Designates weather the store is a convenience store of a supermarket,Convenience Store,Supermarket,These categories were based off of the ACHD fee and permit system 2016
